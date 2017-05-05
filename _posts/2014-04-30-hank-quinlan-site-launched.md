@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "p.merg, Launches Site at 1st"
 date: 2014-04-30
 ---
 
