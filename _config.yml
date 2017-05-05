@@ -1,0 +1,3 @@
+name: p.merg, Personal Cop - Blog
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
